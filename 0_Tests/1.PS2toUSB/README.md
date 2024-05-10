@@ -6,7 +6,7 @@
 
 ##### 2.使用`PS2-A3模块`（如下图），将该模块触点及USB端口与该芯片进行飞线焊接可直连电脑，经测试效果良好
 
-#####                                                       <img src="D:\_PersonalProjects\MyTouchPad\0_Tests\1.PS2toUSB\Pics\PS2-A3.jpg" alt="PS2-A3" style="zoom: 50%;" />
+#####                                                                                                                         <img src="D:\_PersonalProjects\MyTouchPad\0_Tests\1.PS2toUSB\Pics\PS2-A3.jpg" alt="PS2-A3" style="zoom: 50%;" />
 
 ##### 3.`HTX5330A模块`配备有FPC插座一个，经万用表测量得其线序如下图所示。为方便测试，拟设计一个FPC转接板将触摸板的PS/2信号经USB输出至电脑。
 
