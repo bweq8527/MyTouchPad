@@ -4,7 +4,7 @@
 
 ​                               <img src="D:\_PersonalProjects\MyTouchPad\0_Tests\1.PS2toUSB\Pics\HTX5330A.jpg" alt="HTX5330A" style="zoom:25%;" />
 
-##### 2.使用`PS2-A3模块`（如下图），将该模块触点及USB端口与该芯片进行飞线焊接可直连电脑，经测试效果良好
+##### 2.使用`PS2-A3模块`（如下图），将该模块触点及USB端口与上述芯片进行飞线焊接可直连电脑，经测试效果良好
 
 #####                                                                                                                         <img src="D:\_PersonalProjects\MyTouchPad\0_Tests\1.PS2toUSB\Pics\PS2-A3.jpg" alt="PS2-A3" style="zoom: 50%;" />
 
